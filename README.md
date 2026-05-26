@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+大家好，我是淡江大學資訊傳播學係的杜珈萱。
 <!--
 **zhiasheun0720-rgb/zhiasheun0720-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
